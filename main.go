@@ -1,7 +1,9 @@
 //////////////////////////////////////////
 //     TUNISIA, 08 24 2025              //
-//     www.dotcom.tn                    //
-//     waf / nginx / linux / debian 12  //
+//     www.dotcom.tn                    // 
+//     rayen.jenhani@ensi-uma.tn        //
+//     by Rayen JENHANI                 //
+//     WAF / nginx / Linux / debian 12  //
 //////////////////////////////////////////
 
 
