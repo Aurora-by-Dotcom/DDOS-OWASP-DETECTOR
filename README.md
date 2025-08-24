@@ -1,9 +1,9 @@
 # DDOS-OWASP-DETECTOR
 DDOS OWASP DETECTOR 
 
-Guide d’installation
+Installation Guide
 
-Installer Go (si non installé) : version 1.23.0
+Instal Go if not installed : v1.23.0
 
     sudo rm -rf /usr/local/go
 
