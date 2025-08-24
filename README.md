@@ -1,7 +1,7 @@
 # DDOS-OWASP-DETECTOR
 DDOS OWASP DETECTOR 
 
-Installation Guide
+Install Guide
 
 Install Go if not installed : v1.23.0
 
