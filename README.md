@@ -3,7 +3,7 @@ DDOS OWASP DETECTOR
 
 Installation Guide
 
-Instal Go if not installed : v1.23.0
+Install Go if not installed : v1.23.0
 
     sudo rm -rf /usr/local/go
 
@@ -19,7 +19,7 @@ Instal Go if not installed : v1.23.0
 
     go version
 
-Installer la dépendance tail : 
+Install dependancy tail : 
 
     go get github.com/hpcloud/tail@latest
 
@@ -35,7 +35,7 @@ Vérifier la configuration de Nginx : Assurer que Nginx enregistre les logs au f
       
     sudo systemctl status nginx
 
-Installer iptables (si nécessaire) : 
+Install iptables if necessairey : 
 
     sudo apt update
 
@@ -47,7 +47,7 @@ Enregistrer le code : Placez le code main.go dans le répertoire ~/ddos-detector
 
     nano ~/ddos-detector/main.go
 
-Compiler et exécuter le programme : Lancez le programme avec sudo pour permettre les modifications iptables : 
+Compile and execute the program: (execute with sudo to allow iptables modifications ) : 
 
     cd ~/ddos-detector
 
